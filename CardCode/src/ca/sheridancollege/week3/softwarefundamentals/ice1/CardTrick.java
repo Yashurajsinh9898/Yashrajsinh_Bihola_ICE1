@@ -3,7 +3,7 @@ package ca.sheridancollege.week3.softwarefundamentals.ice1;
 
 /**
  *
- * @author Ronak
+ * Yashrajsinh_Bihola
  */
 public class CardTrick {
     public static void main(String[] args)
